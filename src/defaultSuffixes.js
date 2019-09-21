@@ -1,0 +1,3 @@
+const DEFAULT_SUFFIXES = ['LOADING', 'SUCCESS', 'FAILED'];
+
+export default DEFAULT_SUFFIXES;
