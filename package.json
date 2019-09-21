@@ -40,5 +40,8 @@
   },
   "dependencies": {
     "lodash": "^4.17.15"
+  },
+  "peerDependencies": {
+    "react-redux": ">= 7"
   }
 }
